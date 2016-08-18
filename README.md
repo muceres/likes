@@ -1,6 +1,9 @@
 # Likes
 
-> Interesting stuff I like on the web
+> Interesting content found on the web
+
+### August 18, 2016
+- [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
 
 ### August 17, 2016
 - [Introduction to Microservices - Blog NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
