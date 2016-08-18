@@ -4,6 +4,7 @@
 
 ### August 18, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
+- [Banking Explained – Money and Credit  - YouTube](https://www.youtube.com/watch?v=fTTGALaRZoc)
 
 ### August 17, 2016
 - [Introduction to Microservices - Blog NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
