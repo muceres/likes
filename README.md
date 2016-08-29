@@ -5,6 +5,7 @@
 ### August 29, 2016
 - [Reasons not to buy from Amazon - Richard Stallman](https://stallman.org/amazon.html)
 - [Reasons not to use Apple - Richard Stallman](https://stallman.org/apple.html)
+- [Reasons not to use Facebook - Richard Stallman](https://stallman.org/facebook.html)
 
 ### August 18, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
