@@ -2,6 +2,9 @@
 
 > Interesting content found on the web
 
+### August 29, 2016
+- [Reasons not to buy from Amazon - Richard Stallman](https://stallman.org/amazon.html)
+
 ### August 18, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
 - [Banking Explained – Money and Credit  - YouTube](https://www.youtube.com/watch?v=fTTGALaRZoc)
