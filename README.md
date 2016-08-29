@@ -7,6 +7,7 @@
 - [Reasons not to use Apple - Richard Stallman](https://stallman.org/apple.html)
 - [Reasons not to use Facebook - Richard Stallman](https://stallman.org/facebook.html)
 - [Reasons not to use Google - Richard Stallman](https://stallman.org/google.html)
+- [Reasons not to use Skype - Richard Stallman](https://stallman.org/skype.html)
 
 ### August 18, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
