@@ -2,12 +2,16 @@
 
 > Interesting content found on the web
 
+### August 30, 2016
+- [Reasons not to use Uber - Richard Stallman](https://stallman.org/uber.html)
+
 ### August 29, 2016
 - [Reasons not to buy from Amazon - Richard Stallman](https://stallman.org/amazon.html)
 - [Reasons not to use Apple - Richard Stallman](https://stallman.org/apple.html)
 - [Reasons not to use Facebook - Richard Stallman](https://stallman.org/facebook.html)
 - [Reasons not to use Google - Richard Stallman](https://stallman.org/google.html)
 - [Reasons not to use Skype - Richard Stallman](https://stallman.org/skype.html)
+
 
 ### August 18, 2016
 - [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
