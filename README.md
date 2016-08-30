@@ -4,6 +4,7 @@
 
 ### August 30, 2016
 - [Reasons not to use Uber - Richard Stallman](https://stallman.org/uber.html)
+- [The Danger of Ebooks - Richard Stallman](https://stallman.org/ebooks.pdf)
 
 ### August 29, 2016
 - [Reasons not to buy from Amazon - Richard Stallman](https://stallman.org/amazon.html)
