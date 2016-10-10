@@ -2,6 +2,9 @@
 
 > Interesting content found on the web
 
+### October 10, 2016
+- [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.xdbd9ghei)
+
 ### August 30, 2016
 - [Reasons not to use Uber - Richard Stallman](https://stallman.org/uber.html)
 - [The Danger of Ebooks - Richard Stallman](https://stallman.org/ebooks.pdf)
